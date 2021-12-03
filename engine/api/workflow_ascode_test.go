@@ -715,7 +715,7 @@ metadata:
   default_tags: tag_version,git.branch,git.author
 notifications:
 - type: vcs
-- type: jabber
+- type: email
   pipelines:
   - playbook-game-stuff
   - playbook-game-molecule
@@ -730,7 +730,7 @@ notifications:
         {{.cds.status}}'
       body: |
         {{.cds.buildURL}}
-- type: jabber
+- type: email
   pipelines:
   - notify
   settings:
@@ -746,7 +746,7 @@ notifications:
       - variable: git.branch
         operator: eq
         value: master
-- type: jabber
+- type: email
   pipelines:
   - notify
   settings:
