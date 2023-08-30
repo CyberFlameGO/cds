@@ -87,5 +87,5 @@ require (
 	google.golang.org/grpc v1.27.1 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
