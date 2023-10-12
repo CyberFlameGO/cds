@@ -110,12 +110,12 @@ require (
 	go.uber.org/atomic v1.6.0 // indirect
 	go.uber.org/multierr v1.5.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
-	golang.org/x/crypto v0.0.0-20210920023735-84f357641f63 // indirect
-	golang.org/x/net v0.0.0-20210917221730-978cfadd31cf // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
-	golang.org/x/sys v0.0.0-20211015200801-69063c4bb744 // indirect
-	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	google.golang.org/api v0.20.0 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 	google.golang.org/grpc v1.27.1 // indirect
