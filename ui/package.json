@@ -69,7 +69,7 @@
     "js-yaml": "3.13.1",
     "jsonschema": "1.2.5",
     "jsrsasign": "10.2.0",
-    "lodash-es": "4.17.15",
+    "lodash-es": "4.17.21",
     "modernizr": "3.7.1",
     "moment": "2.24.0",
     "ng-event-source": "1.0.14",
